@@ -1,0 +1,16 @@
+.work {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.work-section {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.work-section:not(:last-child) {
+    margin-right: 20px;
+}
