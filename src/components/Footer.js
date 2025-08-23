@@ -78,7 +78,7 @@ export const Footer = () => {
                   }}>
                     📧
                   </div>
-                  <span>sdwijaya@iu.edu</span>
+                  <span>samudithawijesundara@gmail.com</span>
                 </div>
                 
                 <div style={{
@@ -108,7 +108,7 @@ export const Footer = () => {
           <Col size={12} md={6}>
             <div style={{ textAlign: 'right' }}>
               {/* Quick Links */}
-              <div style={{ marginBottom: '30px' }}>
+              {/* <div style={{ marginBottom: '30px' }}>
                 <h4 style={{
                   color: '#fff',
                   fontSize: '1.3rem',
@@ -155,7 +155,7 @@ export const Footer = () => {
                     </a>
                   ))}
                 </div>
-              </div>
+              </div> */}
 
               {/* Social Icons */}
               <div style={{ marginBottom: '20px' }}>
